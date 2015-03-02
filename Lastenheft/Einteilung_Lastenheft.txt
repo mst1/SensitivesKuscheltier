@@ -1,0 +1,4 @@
+Sivan: Einführung, Zielbestimmung, Produkteinsatz
+Stöger: Produktfunktionen
+Pavic: Produktleistungen, Produktdaten
+Ucel: Qualitätsanforderungen, Zwingende Randbedingungen, Ergänzungen, Glossar
