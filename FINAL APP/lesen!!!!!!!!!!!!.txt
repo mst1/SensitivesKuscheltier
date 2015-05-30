@@ -1,0 +1,6 @@
+Home = Home
+Find People = Systemsteuerung
+Photos = Soundboard
+Communites = Hilfe
+Pages = Über Uns
+Whats hot = NOT USED !!!
