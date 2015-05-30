@@ -1,0 +1,7 @@
+#!/bin/sh -e
+
+ifup wlan0
+
+projectpi &
+
+exit 0

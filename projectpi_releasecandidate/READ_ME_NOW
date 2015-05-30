@@ -1,0 +1,17 @@
+Execute install.sh in SOFTWARE as root to install projectpi software.
+Then you should be able to call projectpi software by calling 'projectpi' from any directory.
+
+The program in the DEBUG folder can send commands over network to the projectpi software.
+Possible commands are:
+	shutd			Shuts raspberry pi down
+	killsoft		Kills the Software
+	reboot			Reboots raspberry pi
+	ledred			Sets eye color to red
+	ledgreen
+	ledblue
+	ledyellow
+	ledmagenta
+	ledtuerkis
+	ledwhite
+	ledblank
+	[Filename].wav	Plays spezified File -> Software crashes when file not found
