@@ -16,7 +16,7 @@ public class ConnectSocket {
 
         System.out.println("Sending message...");
 
-        osw.write(cmd   );
+        osw.write(cmd);
         osw.flush();
         osw.close();
     }
